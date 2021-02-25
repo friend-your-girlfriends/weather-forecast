@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WeatherForecast
 {
-    public partial class CurrentCityInfo : UserControl
+    public partial class FavoritePlace : UserControl
     {
-        public CurrentCityInfo()
+        public FavoritePlace()
         {
             InitializeComponent();
         }

@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace WeatherForecast
 {
-    public partial class FormMain : Form
+    public partial class FormDiagram : Form
     {
-        public FormMain()
+        public FormDiagram()
         {
             InitializeComponent();
+
+            Dock = DockStyle.Fill;
+            MaximizeBox = true;
+            TopLevel = false;
+
+            BringToFront();
+
+            Show();
         }
     }
 }

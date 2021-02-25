@@ -2,10 +2,14 @@ C:\Course projects\DB\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.
 C:\Course projects\DB\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
 C:\Course projects\DB\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
-C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.CurrentCityInfo.resources
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.FormMain.resources
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
 C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.FormCityInfo.resources
+C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.FormFavoritesList.resources
+C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.FormDiagram.resources
+C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.FavoritePlace.resources
+C:\Course projects\DB\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.HourlyForecast.resources
